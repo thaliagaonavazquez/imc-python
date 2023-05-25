@@ -1,2 +1,2 @@
-# Calculadora de indice de masa corpral
+# Calculadora de indice de masa corporal
 desarrollada en python
